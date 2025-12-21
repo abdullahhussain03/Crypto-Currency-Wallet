@@ -1,0 +1,14 @@
+[
+    {
+        "index": 1,
+        "name": "Solan",
+        "symbol": "SOL",
+        "price": 300
+    },
+    {
+        "index": 2,
+        "name": "BITCOIN",
+        "symbol": "BTC",
+        "price": 500
+    }
+]

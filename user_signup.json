@@ -1,0 +1,27 @@
+[
+    {
+        "name": "ibrahim",
+        "password": "ibrahim25085",
+        "role": "user",
+        "balance": 1000.0,
+        "currencies": {}
+    },
+    {
+        "name": "saad",
+        "password": "saad25060",
+        "role": "user",
+        "balance": 650.0,
+        "currencies": {
+            "SOL": {
+                "name": "Solan",
+                "price": 100,
+                "quantity": 1.0
+            },
+            "BTC": {
+                "name": "BITCOIN",
+                "price": 500,
+                "quantity": 0.5
+            }
+        }
+    }
+]
