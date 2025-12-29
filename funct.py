@@ -226,7 +226,7 @@ def remove():
         print("NO CURRENCY TO REMOVE")
     index = int(input("ENTER THE INDEX OF THE CURRENCY YOU WANT TO REMOVE :"))
     while index > len(info_currency):
-        index = int(input("ENTER THE INDEX OF THE CURRENCY YOU WANT TO REMOVE :"))
+        index = int(input("ENTER THE INDEX OF THE currency YOU WANT TO REMOVE :"))
 
     updated_list = []
     count = 1
