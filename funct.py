@@ -291,7 +291,7 @@ def find_user():
             print(f"PASSWORD :{user_info[i]["password"]}")
             print(f"BALANCE :{user_info[i]["balance"]}")
             print(f"ROLE :{user_info[i]["role"]}")
-            print(f"CURRENCIES :{user_info[i]["currencies"]}")
+            print(f"CURRENCIES :{user_info[i]["currEncies"]}")
     if not found:
         print("NO CURRENCY FOUND")
 
